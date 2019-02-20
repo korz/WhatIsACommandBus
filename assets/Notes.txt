@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Command_pattern
+
+https://en.wikipedia.org/wiki/Command–query_separation
+https://martinfowler.com/bliki/CommandQuerySeparation.html
+
+
